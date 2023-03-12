@@ -5,7 +5,7 @@ import 'package:realtime_database/user_model.dart';
 
 import 'add_user_form.dart';
 import 'firebase_options.dart';
-import 'firestore_functions.dart';
+import 'firebase_realtime_functions.dart';
 import 'utils.dart';
 
 void main() async {

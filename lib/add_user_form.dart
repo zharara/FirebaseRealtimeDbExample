@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:realtime_database/user_model.dart';
 
-import 'firestore_functions.dart';
+import 'firebase_realtime_functions.dart';
 import 'utils.dart';
 
 class AddUserForm extends StatefulWidget {
